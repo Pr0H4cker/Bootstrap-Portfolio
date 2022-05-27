@@ -90,7 +90,7 @@ The tutorial was taken from the bootstrap documentation so I have literally no c
 
 # Contact
 ## Email: Carson@carsonsernick.info
-## Repl: SkySkript (Carson Sernick)
+## Repl: Carson-Sernick (Carson Sernick)
 ## GitHub Pr0H4cker
 
 
